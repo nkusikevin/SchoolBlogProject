@@ -164,7 +164,8 @@ header ul li a {
 }
 
 header ul li a:hover {
-  background: #006669;
+  background: #333;
+  color: white;
   transition: 0.5s;
 }
 
