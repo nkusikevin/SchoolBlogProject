@@ -35,7 +35,7 @@ a {
 
 .btn {
   padding: 0.5rem 1rem;
-  background: #006669;
+  background: #333;
   color: white;
   border: 1px solid transparent;
   border-radius: 0.25rem;
@@ -89,8 +89,9 @@ a {
 /* NAVBAR */
 
 header {
-  background: #008489;
+  background: #dfdfdf;
   height: 66px;
+  box-shadow:0 0 5px 0 #ccc;
 }
 
 header * {
@@ -109,7 +110,7 @@ header .logo-text {
 }
 
 header .logo-text span {
-  color: #05f7ff;
+  color: #0a2829;
 }
 
 header ul {

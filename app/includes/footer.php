@@ -3,20 +3,18 @@
     <div class="footer-content">
 
       <div class="footer-section about">
-        <h1 class="logo-text"><span>Awa</span>Inspires</h1>
+        <h1 class="logo-text"><span>Daily</span>Report</h1>
         <p>
-          AwaInspires is a fictional blog conceived for the purpose of a tutorial on YouTube.
-          However, Awa has a blog called pieceofadvice.org where he writes truly inspiring stuff.
+          DailyReport is blog that helps in giving student and all other people daily news
+          in UR Huye Campus
         </p>
+        <h4>Happy Coding Fam :-)</h4>
         <div class="contact">
-          <span><i class="fas fa-phone"></i> &nbsp; 123-456-789</span>
-          <span><i class="fas fa-envelope"></i> &nbsp; info@awainspires.com</span>
+          <span><i class="fas fa-phone"></i> &nbsp; +250783462327</span>
+          <span><i class="fas fa-envelope"></i> &nbsp; dailyreportblog.com</span>
         </div>
         <div class="socials">
-          <a href="#"><i class="fab fa-facebook"></i></a>
-          <a href="#"><i class="fab fa-instagram"></i></a>
-          <a href="#"><i class="fab fa-twitter"></i></a>
-          <a href="#"><i class="fab fa-youtube"></i></a>
+          <a href="https://github.com/nkusikevin/"><i class="fab fa-github"></i></a>
         </div>
       </div>
 
@@ -25,13 +23,13 @@
         <br>
         <ul>
           <a href="#">
-            <li>Events</li>
+            <li>MetUps</li>
           </a>
           <a href="#">
-            <li>Team</li>
+            <li>Sport</li>
           </a>
           <a href="#">
-            <li>Mentores</li>
+            <li>Technology</li>
           </a>
           <a href="#">
             <li>Gallery</li>
@@ -58,7 +56,7 @@
     </div>
 
     <div class="footer-bottom">
-      &copy; codingpoets.com | Designed by Awa Melvine
+      &copy; DailyReport.com | Designed by NkusiKevin
     </div>
   </div>
   <!-- // footer -->
