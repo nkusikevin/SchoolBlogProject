@@ -1,8 +1,11 @@
 <?php
 
+// $host = 'localhost';
+// $user = 'root';
+// $pass = '';
+// $db_name = 'blog';
 
-
-
+// $conn = new MySQLi($host, $user, $pass, $db_name);
 
 //Get Heroku ClearDB connection information
 $cleardb_url = parse_url(getenv("CLEARDB_DATABASE_URL"));
@@ -15,14 +18,6 @@ $query_builder = TRUE;
 // Connect to DB
 $conn = mysqli_connect($cleardb_server, $cleardb_username, $cleardb_password, $cleardb_db);
 
-
-
-// $host = 'localhost';
-// $user = 'root';
-// $pass = '';
-// $db_name = 'blog';
-
-// $conn = new MySQLi($host, $user, $pass, $db_name);
 
 if ($conn->connect_error) {
     die('Database connection error: ' . $conn->connect_error);
