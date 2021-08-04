@@ -14,7 +14,7 @@
           <span><i class="fas fa-envelope"></i> &nbsp; dailyreportblog.com</span>
         </div>
         <div class="socials">
-          <a href="https://github.com/nkusikevin/"><i class="fab fa-github"></i></a>
+          <a href="https://github.com/nkusikevin/" target="_blank"><i class="fab fa-github"></i></a>
         </div>
       </div>
 
