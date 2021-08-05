@@ -17,7 +17,7 @@ header {
 	list-style: none;
 	margin: 0px;
 	padding: 0px;
-	color: aliceblue;
+	color: rgb(255, 255, 255);
 }
 
 .admin-wrapper .left-sidebar ul li a {
