@@ -403,8 +403,8 @@ header .menu-toggle {
 /* FOOTER */
 
 .footer {
-  background: #303036;
-  color: #d3d3d3;
+  background: #d3d3d3;
+  color: #000000;
   height: 400px;
   position: relative;
 }
@@ -425,7 +425,7 @@ header .menu-toggle {
 }
 
 .footer .footer-content .about h1 span {
-  color: #05f7ff;
+  color: #0a2829;
 }
 
 .footer .footer-content .about .contact span {
