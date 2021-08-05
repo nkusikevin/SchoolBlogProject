@@ -1,7 +1,3 @@
-header {
-	background: #dfdfdf;
-}
-
 .admin-wrapper {
 	display: flex;
 	height: calc(100% - 66px);
